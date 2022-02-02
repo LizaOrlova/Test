@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ura
 trula
+=======
+ura
+>>>>>>> 79931b25440212b4b03a5dee3d8f68bb8ddd87d2
